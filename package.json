@@ -1,0 +1,22 @@
+{
+  "name": "basic-jquery-webpage",
+  "version": "0.1.0",
+  "description": "Index.html, css, and jQuery set up and ready to go.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollyfish/basic-jquery-webpage.git"
+  },
+  "author": " <kent.molly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mollyfish/basic-jquery-webpage/issues"
+  },
+  "homepage": "https://github.com/mollyfish/basic-jquery-webpage#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

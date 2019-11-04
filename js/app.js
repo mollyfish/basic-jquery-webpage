@@ -1,4 +1,5 @@
-'use strict';
-$(function() {
-  console.log("hi there");
-}());
+function sum(a,b) {
+  return a + b;
+}
+
+module.exports = sum;
